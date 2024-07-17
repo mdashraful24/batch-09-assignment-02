@@ -106,7 +106,7 @@ h2 {
 }
 
 .explore-your-travel {
-    background-image: linear-gradient(180deg, rgba(19, 19, 24, 0.8) 0%, rgba(19, 19, 24, 0) 100%), url(/Images/banner-1.png);
+    background-image: linear-gradient(180deg, rgba(19, 19, 24, 0.8) 0%, rgba(19, 19, 24, 0) 100%), url("/Images/banner-1.png");
     padding: 7rem 0;
     background-repeat: no-repeat;
     background-position: center;
